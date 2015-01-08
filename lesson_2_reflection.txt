@@ -10,6 +10,8 @@ The staging area is a intermediate state which allows one to verify that the pen
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Use git diff to compare staged change and file in working directory and/or use git diff --staged to comapare staged with repo.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
