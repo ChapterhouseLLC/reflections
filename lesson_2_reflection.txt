@@ -19,8 +19,14 @@ Branches are useful when one wants to experiment, create new versions or modify 
 
 How do the diagrams help you visualize the branch structure?
 
+Parrallel branches and changes in each may be viewed.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+All of the changes from both branches are included and effectively becomes a single branch which has access to all commits in both branches.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Automantic merging quickly merges changes that do not conflict.
