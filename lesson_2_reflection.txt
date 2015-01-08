@@ -5,6 +5,8 @@ A repository is created which includes a .git folder which will be used to maint
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The staging area is a intermediate state which allows one to verify that the pending commit is logical.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
