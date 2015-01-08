@@ -1,1 +1,11 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+Remote repository is an off-site storage which effectively creates a backup of what one may have locally. Useful if one's local machine is lost.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+One may want to maintain one's own branches.
+
+Describe the differences between forks, clones and branches. When would you use one instead of another?
+
+Forks are clones of another's repository on GitHub. It allows one to use the code in one's own repository while still giving credit ot the original author. Cloning is a copy of a repository on GitHub on the local macine and allows one to edit and test code. Branches are to maintain parallel versions of the code that may be merged into the master branch eventually or never as they are experimental.
